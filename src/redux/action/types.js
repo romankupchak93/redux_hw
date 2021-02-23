@@ -1,0 +1,7 @@
+const SAVE_USER_NAME = 'SAVE_USER_NAME';
+const REMOVE_USER_NAME = 'REMOVE_USER_NAME';
+
+export default {
+    SAVE_USER_NAME,
+    REMOVE_USER_NAME
+}
